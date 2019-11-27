@@ -8,6 +8,7 @@ https://mitibmwatsonailab.mit.edu/research/publications/paper/?id=GAN-Dissection
 
 https://www.ibm.com/blogs/systems/generative-adversarial-network-technology-ai-goes-mainstream/
 
+https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091
 
 # DeepFake
 

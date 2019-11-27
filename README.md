@@ -1,5 +1,4 @@
-# GAN
-Understanding Generative Adversarial Networks (GANs
+# GANs - Understanding Generative Adversarial Networks
 
 https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 

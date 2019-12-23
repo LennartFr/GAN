@@ -1,5 +1,7 @@
 # GANs - Understanding Generative Adversarial Networks
 
+https://www.youtube.com/watch?v=mmSDwNQHRlA
+
 https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
 https://twitter.com/edonnellymdphd/status/1199368038534934529

@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=mmSDwNQHRlA
 
+https://gan-paint-demo.mybluemix.net
+
 https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
 https://twitter.com/edonnellymdphd/status/1199368038534934529

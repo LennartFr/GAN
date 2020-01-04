@@ -1,5 +1,7 @@
 # GANs - Understanding Generative Adversarial Networks
 
+https://www.youtube.com/watch?v=9JpdAg6uMXs
+
 https://www.youtube.com/watch?v=mmSDwNQHRlA
 
 https://gan-paint-demo.mybluemix.net

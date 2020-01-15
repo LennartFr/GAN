@@ -13,14 +13,25 @@ IBM Client Experienc Centers
 
 ## IBM and GAN
 
+# DeepFakes technologies
 
-##Unclassified materials
+https://www.cnbc.com/2019/09/04/chinese-face-swapping-app-zao-takes-dangers-of-deepfake-to-the-masses.html
+
+https://deepfakesweb.com
+
+https://syncedreview.com/2019/08/29/ai-creates-fashion-models-with-custom-outfits-and-poses/
+
+## Hands-on 
+
+https://gan-paint-demo.mybluemix.net
+
+## Unclassified materials
 
 https://www.youtube.com/watch?v=9JpdAg6uMXs
 
 https://www.youtube.com/watch?v=mmSDwNQHRlA
 
-https://gan-paint-demo.mybluemix.net
+
 
 https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
@@ -32,10 +43,4 @@ https://www.ibm.com/blogs/systems/generative-adversarial-network-technology-ai-g
 
 https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091
 
-# DeepFake
 
-https://www.cnbc.com/2019/09/04/chinese-face-swapping-app-zao-takes-dangers-of-deepfake-to-the-masses.html
-
-https://deepfakesweb.com
-
-https://syncedreview.com/2019/08/29/ai-creates-fashion-models-with-custom-outfits-and-poses/

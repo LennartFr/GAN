@@ -13,6 +13,16 @@ IBM Client Experienc Centers
 
 ## IBM and GAN
 
+http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
+
+https://www.ibm.com/blogs/research/2019/06/good-gans/
+
+https://gan-paint-demo.mybluemix.net/
+
+https://www.ibm.com/blogs/systems/generative-adversarial-network-technology-ai-goes-mainstream/
+
+
+
 ## DeepFakes technologies
 
 https://www.cnbc.com/2019/09/04/chinese-face-swapping-app-zao-takes-dangers-of-deepfake-to-the-masses.html

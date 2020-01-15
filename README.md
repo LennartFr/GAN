@@ -13,7 +13,7 @@ IBM Client Experienc Centers
 
 ## IBM and GAN
 
-# DeepFakes technologies
+## DeepFakes technologies
 
 https://www.cnbc.com/2019/09/04/chinese-face-swapping-app-zao-takes-dangers-of-deepfake-to-the-masses.html
 

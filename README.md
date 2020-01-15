@@ -1,5 +1,21 @@
 # GANs - Understanding Generative Adversarial Networks
 
+## Introduction to GAN 
+Rajesh K Jeyapaul
+IBM Digital Bangalore
+
+
+## GAN Use Cases
+
+Nin Lei, Distinguised Engineer, AI Technology Poughkeepsie
+
+IBM Client Experienc Centers
+
+## IBM and GAN
+
+
+##Unclassified materials
+
 https://www.youtube.com/watch?v=9JpdAg6uMXs
 
 https://www.youtube.com/watch?v=mmSDwNQHRlA

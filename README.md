@@ -1,5 +1,8 @@
 # GANs - Understanding Generative Adversarial Networks
 
+https://www.forbes.com/sites/forbestechcouncil/2019/05/21/gans-and-deepfakes-could-revolutionize-the-fashion-industry/#5179b8ad3d17
+
+
 ## Introduction to GAN 
 Rajesh K Jeyapaul
 IBM Digital Bangalore

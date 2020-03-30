@@ -33,6 +33,11 @@ https://syncedreview.com/2019/08/29/ai-creates-fashion-models-with-custom-outfit
 
 ## Hands-on 
 
+
+Good Presentations:
+
+https://heartbeat.fritz.ai/introduction-to-generative-adversarial-networks-gans-35ef44f21193
+
 https://gan-paint-demo.mybluemix.net
 
 ## Unclassified materials
